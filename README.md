@@ -1,7 +1,7 @@
 # Imgscii
 A simple image to ascii program for linux with python 3.
 
-HOW IT WORKS!
+# HOW IT WORKS!
 
 You add the path to the image in the input bar, and you press convert.
 
