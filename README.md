@@ -1,5 +1,6 @@
 # Imgscii
 A simple image to ascii program for linux with python 3.
+Only 48 lines of code!
 
 # HOW IT WORKS!
 
